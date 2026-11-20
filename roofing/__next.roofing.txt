@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[87584,["/alpha-roofing-preview/_next/static/chunks/0n2d1o-mgduw~.js","/alpha-roofing-preview/_next/static/chunks/10.ah.d4e_4g2.js"],"default"]
+3:I[79282,["/alpha-roofing-preview/_next/static/chunks/0n2d1o-mgduw~.js","/alpha-roofing-preview/_next/static/chunks/10.ah.d4e_4g2.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"gyyhXqdflxO7nkNy8ELOm"}
